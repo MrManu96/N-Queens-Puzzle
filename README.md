@@ -21,6 +21,6 @@ IMPORTANT: The original core algorithm to find solutions for the queens puzzle w
 (sol-prog) [https://github.com/sol-prog/N-Queens-Puzzle] This code was modified to iterate through each value of N and to
 store the solutions using PostgreSQL.
 
-Manuel Salvador Cabrera Sanchez
-Last update: November 5, 2019
+Manuel Salvador Cabrera Sanchez.
+Last update: November 5, 2019.
 Mexico City
