@@ -2,6 +2,7 @@
 
 This is a solution to the N-Queens puzzle using Python 3. 
 It is important to run the code in an environment with Python 3, SQLAlchemy, Pandas and Pytest installed.
+Travis CI was configured to run the test cases automatically. Results were successful.
 
 This code uses PostgreSQL through SQLAlchemy to store the solutions for each N from 8 to 14, so it is also important to
 install PostgreSQL 12. To configure the database, I created a local server called "local" and then a database called
